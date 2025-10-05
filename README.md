@@ -27,7 +27,7 @@ VSD(VLSI System Design) TCL Workshop
         5. Process bussed ports and configuration file creation for Opentimer
         6. Quality of results (QoR) generation algorithm
 
-## WORKSHOP SESSIONS ARE RECORED IN THE BELOW THEORY AND PRACTICAL SESSIONS
+## WORKSHOP SESSIONS THEORY AND PRACTICAL SESSIONS
   
 
         

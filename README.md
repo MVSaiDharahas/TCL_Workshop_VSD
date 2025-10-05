@@ -1,5 +1,5 @@
-# TCL_Workshop_VSD
-VSD TCL Workshop
+# TCL_Workshop_VSD(VLSI System Design)
+VSD(VLSI System Design) TCL Workshop
 # TCL Workshop: From Introduction to Advanced Scripting Techniques in VLSI Design and Synthesis
 
 ## WORKSHOP AGENDA

@@ -22,3 +22,18 @@ VSD ToolBox
 
 ![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/7b376a63658f6e306ee43b66adea385bb5213e79/lab%201-10.png)
 
+DAY 2: Variable Creation and Processing Contraints from CSV using TCL
+
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0a9088e1abaedd5b53161e775fc731c2771814b2/lab%202-1.png)
+
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0a9088e1abaedd5b53161e775fc731c2771814b2/lab%202-2.png)
+
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0a9088e1abaedd5b53161e775fc731c2771814b2/lab%202-3.png)
+
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0a9088e1abaedd5b53161e775fc731c2771814b2/lab%202-4.png)
+
+DEMO for computing row numbers
+
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0a9088e1abaedd5b53161e775fc731c2771814b2/lab%202-5.png)
+
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0a9088e1abaedd5b53161e775fc731c2771814b2/lab%202-6.png)

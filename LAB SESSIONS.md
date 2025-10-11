@@ -140,5 +140,235 @@ Execution in Yoysys and output
 
 Hierarchy checks
 
+!
+
+!
+
+!
+
+!
+
+Error Handling
+
+!
+
+!
+
+!
+
+!
+
+Error Handling check FAIL
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Error Handling check PASS
+
+!
+
+!
+
+!
+
+Hierarchy Check logs
+
+!
+
+!
+
+!
+
+!
+
+Hierarchy check FAIL
+
+!
+
+!
+
+!
+
+Hierarchy check PASS
+
+!
+
+DAY 5: Advanced Scripting Techniques and Quality of Results Generation
+
+Synthesis main file scripting and output file editing
+
+Synthesis scripting
+
+!
+
+!
+
+!
+
+!
+
+Synthesis script editing for Yosys
+
+!
+
+!
+
+!
+
+!
+
+!
+
+PROCS
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Other PROCS
+
+!
+
+!
+
+Interpret input, transition and output delay constraint and creation
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Clock constraints
+
+!
+
+!
+
+Clock constraints Test
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Input , output transition constraints
+
+!
+
+!
+
+!
+
+!
+
+Output constraints
+
+!
+
+!
+
+!
+
+Results
+
+!
+
+!
+
+Input, out and transition tests
+
+!
+
+!
+
+Process bussed ports and configuration file creation
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+SPEF generation
+
+!
+
+!
+
+!
+
+Config File Creation for OpenTimer
+
+!
+
+!
+
+Additional Manual trail for OpenTimer using the generated commands in the config file
+
+!
+
+!
+
+!
+
+Quality of results (QoR)
+
+
+RunTime
+
+!
+
+Violation data for setup, hold, FEPs and Instance count
+
+!
+
+!
+
+!
+
+
+
+
+
+
 
 

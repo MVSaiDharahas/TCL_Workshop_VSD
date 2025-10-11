@@ -37,3 +37,108 @@ DEMO for computing row numbers
 ![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0a9088e1abaedd5b53161e775fc731c2771814b2/lab%202-5.png)
 
 ![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0a9088e1abaedd5b53161e775fc731c2771814b2/lab%202-6.png)
+
+DAY 3: Processing Clock and Input Constraints
+
+Creating complete clock constraints
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Grepping input ports from all verilogs and reformatting for fixed space
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Input constraints generation and bits/ bussed differentiation script
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+DAY 4: Complete Scripting and Yosys Synthesis Introduction
+
+TCL PART ONE Completion with full script
+
+YOSYS TOOL INTRO
+
+Memory creation
+
+!
+
+!
+
+!
+
+Execution in Yoysys and output
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+!
+
+Hierarchy checks
+
+
+

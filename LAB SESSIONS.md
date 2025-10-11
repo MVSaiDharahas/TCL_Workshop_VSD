@@ -42,63 +42,63 @@ DAY 3: Processing Clock and Input Constraints
 
 Creating complete clock constraints
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
 Grepping input ports from all verilogs and reformatting for fixed space
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
 Input constraints generation and bits/ bussed differentiation script
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
-!
+![image alt](
 
 DAY 4: Complete Scripting and Yosys Synthesis Introduction
 
@@ -365,6 +365,23 @@ Violation data for setup, hold, FEPs and Instance count
 
 !
 
+Final Formatting
+
+!
+
+!
+
+!
+
+!
+
+FINAL REPORT AS PER AGENDA. CONVERSION FROM .CSV to REPORT TABLE
+
+!
+
+!
+
+!
 
 
 

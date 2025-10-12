@@ -42,63 +42,63 @@ DAY 3: Processing Clock and Input Constraints
 
 Creating complete clock constraints
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/1.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/2.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/3.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/4.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/5.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/6.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/7.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/8.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/9.png)
 
 Grepping input ports from all verilogs and reformatting for fixed space
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/10.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/11.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/12.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/13.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/14.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/15.png)
 
 Input constraints generation and bits/ bussed differentiation script
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/16.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/17.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/18.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/19.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/20.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/21.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/22.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/23.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/24.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/25.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/26.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/1a1e52e079e1510a5c5504fa1c7f308a1e37de20/27.png)
 
 DAY 4: Complete Scripting and Yosys Synthesis Introduction
 

@@ -13,6 +13,7 @@ VSD(VLSI System Design) TCL Workshop
        
 ### DAY 5: Advanced Scripting Techniques and Quality of Results Generation
         
+--> [LAB PRATICALS](
 
 
   

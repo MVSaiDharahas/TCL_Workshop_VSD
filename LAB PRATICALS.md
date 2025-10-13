@@ -108,97 +108,97 @@ YOSYS TOOL INTRO
 
 Memory creation
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/1.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/2.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/3.png)
 
 Execution in Yoysys and output
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/4.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/5.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/6.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/7.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/8.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/9.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/10%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/11%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/12%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/13%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/14%20-%20Copy.png)
 
 Hierarchy checks
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/15%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/16%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/17%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/18%20-%20Copy.png)
 
 Error Handling
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/19%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/20%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/21%20-%20Copy%20(2).png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/22%20-%20Copy%20(2).png)
 
 Error Handling check FAIL
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/23%20-%20Copy%20(2).png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/24%20-%20Copy%20(2).png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/25%20-%20Copy%20(2).png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/26%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/27%20-%20Copy.png)
 
 Error Handling check PASS
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/28%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/29%20-%20Copy.png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/30%20-%20Copy%20(2).png)
 
 Hierarchy Check logs
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/31%20-%20Copy%20(2).png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/32%20-%20Copy%20(2).png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/33%20-%20Copy%20(2).png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/34%20-%20Copy%20(2).png)
 
 Hierarchy check FAIL
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/35%20-%20Copy%20(2).png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/36%20-%20Copy%20(2).png)
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/37%20-%20Copy%20(2).png)
 
 Hierarchy check PASS
 
-![image alt](
+![image alt](https://github.com/MVSaiDharahas/TCL_Workshop_VSD/blob/0cb2fc3dea829c7b35cabca68a7c5330804be9ac/38%20-%20Copy%20(2).png)
 
 DAY 5: Advanced Scripting Techniques and Quality of Results Generation
 
